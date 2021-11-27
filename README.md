@@ -1,6 +1,6 @@
 ### 안녕하세요 김정하입니다  👋
 🌱 I’m currently learning ...java, jsp, spring 
-https://img.shields.io/badge/-[Java]-[-000000]?style=flat&logo=[Java]
+<a href="https://img.shields.io/badge/-[Java]-[-000000]?style=flat&logo=[Java]">
 
 
 
