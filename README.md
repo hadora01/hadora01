@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 안녕하세요 김정하입니다  👋
+🌱 I’m currently learning ...java, jsp, spring 
 <!--
 **hadora01/hadora01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
