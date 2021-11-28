@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/jsp-F7DF1E?style=for-the-badge&logo=jsp&logoColor=black">
  
- 🌱 My Blog is 
+ 🌱 My Blog is   
  <a href="https://do-ha-computer.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Blog-black?style=flat&logo=Blog&link=https://do-ha-computer.tistory.com/"
